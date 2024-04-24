@@ -1,5 +1,5 @@
 {
-  "description": "Official TinyMCE React Component",
+  "description": "Official OpenTiny React Component",
   "repository": {
     "url": "https://github.com/tinymce/tinymce-react"
   },
@@ -27,7 +27,7 @@
   "license": "MIT",
   "dependencies": {
     "prop-types": "^15.6.2",
-    "tinymce": "^7.0.0 || ^6.0.0 || ^5.5.1"
+    "opentiny": "^6.0.0"
   },
   "peerDependencies": {
     "react": "^18.0.0 || ^17.0.1 || ^16.7.0",
@@ -71,5 +71,5 @@
     "vite": "^5.2.2"
   },
   "version": "5.1.0-rc",
-  "name": "@tinymce/tinymce-react"
+  "name": "opentiny-react"
 }
