@@ -27,7 +27,7 @@
   "license": "MIT",
   "dependencies": {
     "prop-types": "^15.6.2",
-    "opentiny": "^6.0.0"
+    "opentiny": "^6.9.1"
   },
   "peerDependencies": {
     "react": "^18.0.0 || ^17.0.1 || ^16.7.0",

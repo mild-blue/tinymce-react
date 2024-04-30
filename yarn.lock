@@ -5485,11 +5485,6 @@ dom-accessibility-api@^0.6.3:
   resolved "https://registry.yarnpkg.com/dom-accessibility-api/-/dom-accessibility-api-0.6.3.tgz#993e925cc1d73f2c662e7d75dd5a5445259a8fd8"
   integrity sha512-7ZgogeTnjuHbo+ct10G9Ffp0mif17idi0IyWNVA/wcwcm7NPOD/WEHVP3n7n3MhXqxoIYm8d6MuZohYWIZ4T3w==
 
-dompurify@3.0.5:
-  version "3.0.5"
-  resolved "https://registry.yarnpkg.com/dompurify/-/dompurify-3.0.5.tgz#eb3d9cfa10037b6e73f32c586682c4b2ab01fbed"
-  integrity sha512-F9e6wPGtY+8KNMRAVfxeCOHU0/NPWMSENNq4pQctuXRqqdEPW7q3CrLbR5Nse044WwacyjHGOMlvNsBe1y6z9A==
-
 dotenv-expand@^10.0.0:
   version "10.0.0"
   resolved "https://registry.yarnpkg.com/dotenv-expand/-/dotenv-expand-10.0.0.tgz#12605d00fb0af6d0a592e6558585784032e4ef37"
@@ -8622,14 +8617,10 @@ open@^8.0.4, open@^8.0.9, open@^8.4.0:
     is-docker "^2.1.1"
     is-wsl "^2.2.0"
 
-opentiny@^6.0.0:
-  version "6.9.0"
-  resolved "https://registry.yarnpkg.com/opentiny/-/opentiny-6.9.0.tgz#e36181e880e13d1af1de3aa4ced89b68ce670611"
-  integrity sha512-x//NOXSH2pXUkirlQLP9YzqtDkw4x5J83W/ESTJhecLnOcYq5j/7+o3jXJ5Yjx2KJDSH7MlX1zxdDfnHUZyHCQ==
-  dependencies:
-    dompurify "3.0.5"
-    prismjs "^1.27.0"
-    tslib "^2.0.0"
+opentiny@^6.9.1:
+  version "6.9.1"
+  resolved "https://registry.yarnpkg.com/opentiny/-/opentiny-6.9.1.tgz#ca5ee7f44ca0a24cbb1660bbf5e260269a149abf"
+  integrity sha512-jO1g+pNBNFRT1ETXu8hlMFAYDxt9p0wJ3E1DdyMmCdCjbpzXNsNjAYhAJW/oAVKGsXJIPKu8+oRlZHTkJWAY2A==
 
 optionator@^0.9.3:
   version "0.9.3"
@@ -9020,11 +9011,6 @@ pretty-hrtime@^1.0.3:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/pretty-hrtime/-/pretty-hrtime-1.0.3.tgz#b7e3ea42435a4c9b2759d99e0f201eb195802ee1"
   integrity sha512-66hKPCr+72mlfiSjlEB1+45IjXSqvVAIy6mocupoww4tBFE9R9IhwwUGoI4G++Tc9Aq+2rxOt0RFU6gPcrte0A==
-
-prismjs@^1.27.0:
-  version "1.29.0"
-  resolved "https://registry.yarnpkg.com/prismjs/-/prismjs-1.29.0.tgz#f113555a8fa9b57c35e637bba27509dcf802dd12"
-  integrity sha512-Kx/1w86q/epKcmte75LNrEoT+lX8pBpavuAbvJWRXar7Hz8jrtF+e3vY751p0R8H9HdArwaCTNDDzHg/ScJK1Q==
 
 process-nextick-args@~2.0.0:
   version "2.0.1"

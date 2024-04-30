@@ -1,4 +1,4 @@
-import { TinyMCE as TinyMCEGlobal } from 'tinymce';
+import { TinyMCE as TinyMCEGlobal } from 'opentiny';
 
 const getTinymce = (view: Window): TinyMCEGlobal | null => {
   const global = view as any;
