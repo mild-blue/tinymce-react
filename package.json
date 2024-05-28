@@ -26,8 +26,8 @@
   "author": "Ephox Corporation DBA Tiny Technologies, Inc.",
   "license": "MIT",
   "dependencies": {
-    "prop-types": "^15.6.2",
-    "opentiny": "^6.9.2"
+    "opentiny": "^6.9.4",
+    "prop-types": "^15.6.2"
   },
   "peerDependencies": {
     "react": "^18.0.0 || ^17.0.1 || ^16.7.0",
