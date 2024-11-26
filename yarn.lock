@@ -8617,10 +8617,10 @@ open@^8.0.4, open@^8.0.9, open@^8.4.0:
     is-docker "^2.1.1"
     is-wsl "^2.2.0"
 
-opentiny@6.9.12:
-  version "6.9.12"
-  resolved "https://registry.yarnpkg.com/opentiny/-/opentiny-6.9.12.tgz#06fe830eade2c451f89d9433c3a09327c3908071"
-  integrity sha512-KWYNUZs/dHcuGLxtMHVezWMGFbrR7fMkS+YoUafdM359EYtcsj/RA16GJp95Hwv1xgzHgg+9rebAJBwg1Ovu3w==
+opentiny@6.9.13:
+  version "6.9.13"
+  resolved "https://registry.yarnpkg.com/opentiny/-/opentiny-6.9.13.tgz#ead6c974290822072ffbc6adffa9d9a8e30caaf3"
+  integrity sha512-DqdMfE7OaU8vbBCowPEp6Q3tllhrTNyE8Jg5dZrG7RVqcwnSR0xNyD2aEbfOEuf5VtL7t1568SLdHW9yw5bwKw==
 
 optionator@^0.9.3:
   version "0.9.3"
